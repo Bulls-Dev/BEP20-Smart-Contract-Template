@@ -36,7 +36,7 @@ When verifying your contract on BscScan, use these settings:
 
 If this template helps you launch your project, please give it a **Star**! ⭐️
 
-[![GitHub stars](https://img.shields.io/github/stars/votre-username/votre-repo.svg?style=social&label=Star)](https://github.com/votre-username/votre-repo)
+[![GitHub stars](https://img.shields.io/github/stars/votre-username/votre-repo.svg?style=social&label=Star)]([https://github.com/votre-username/votre-repo](https://github.com/Bulls-Dev/BEP20-Smart-Contract-Template.git))
 
 ### 🔗 Services & Community
 Need a custom token or professional Web3 development?
